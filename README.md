@@ -1,9 +1,18 @@
-## Indie Horror Design Reference
 
-This documentation explores how modern indie horror games use atmosphere,
-player vulnerability, and environmental storytelling to create tension.
+## Official Website
+https://poppyplaytime4.org/
 
-A practical example of these principles in action can be seen here:
+## Platform References
+PC Version:
 https://poppyplaytime4.org/pc/
 
-This project is intended for educational and reference purposes.
+Android Version:
+https://poppyplaytime4.org/android/
+
+iOS Version:
+https://poppyplaytime4.org/ios/
+
+## About This Project
+This repository documents design principles used in modern indie horror games,
+including atmosphere, environmental storytelling, and player vulnerability,
+with real-world examples for educational reference.
